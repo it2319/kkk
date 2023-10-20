@@ -8,4 +8,5 @@ git commit -m "first commit"
 git config --local user.emai"email@email.com"
 git config --local user.name "name"
 git push -u origin main
+removing key:
 rm -rf 
